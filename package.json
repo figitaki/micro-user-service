@@ -8,7 +8,7 @@
   },
   "scripts": {
     "start": "nodemon app/index.js",
-    "test": "xo && ava"
+    "test": "xo && nyc ava"
   },
   "xo": {
     "semicolon": false
@@ -30,7 +30,9 @@
   },
   "devDependencies": {
     "ava": "^0.17.0",
+    "coveralls": "^2.11.15",
     "nodemon": "^1.11.0",
+    "nyc": "^10.0.0",
     "xo": "^0.17.1"
   }
 }
