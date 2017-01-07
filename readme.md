@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img width="500" src="media/logo.svg" alt="Simple Node User Service">
+  <img width="500" src="https://cdn.rawgit.com/figitaki/micro-user-service/master/media/logo.svg" alt="Simple Node User Service">
   <br>
   <br>
 </h1>
