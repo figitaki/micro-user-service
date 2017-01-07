@@ -1,0 +1,36 @@
+{
+  "name": "simple-user-service",
+  "version": "0.1.0",
+  "description": "Extensible microservice for managing users",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "nodemon app/index.js",
+    "test": "xo && ava"
+  },
+  "xo": {
+    "semicolon": false
+  },
+  "keywords": [
+    "microservice",
+    "users",
+    "express",
+    "simple"
+  ],
+  "author": "Carey Janecka <careyjanecka@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "http": "0.0.0",
+    "mongodb": "^2.2.19",
+    "morgan": "^1.7.0",
+    "winston": "^2.3.0"
+  },
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "nodemon": "^1.11.0",
+    "xo": "^0.17.1"
+  }
+}

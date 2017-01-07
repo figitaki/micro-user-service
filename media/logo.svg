@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1144px" height="653px" viewBox="0 0 1144 653" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="75.7999886%" x2="100%" y2="23.8373764%" id="linearGradient-1">
+            <stop stop-color="#76CCF3" offset="0%"></stop>
+            <stop stop-color="#7AE8E6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-65.0625893%" y1="115.208797%" x2="166.170285%" y2="-17.5228977%" id="linearGradient-2">
+            <stop stop-color="#76CCF3" offset="0%"></stop>
+            <stop stop-color="#7AE8E6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="Logo" transform="translate(379.000000, 38.000000)">
+                <path d="M193,0.148575234 L385.994995,111.574288 L385.994995,334.425712 L193,445.851425 L0.00500488281,334.425712 L0.00500488281,111.574288 L193,0.148575234 Z M193,60.5509576 L333.684998,141.775479 L333.684998,304.224521 L193,385.449042 L52.3150024,304.224521 L52.3150024,141.775479 L193,60.5509576 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                <g id="ic_person_black_24px" transform="translate(110.500000, 140.500000)" fill="url(#linearGradient-2)">
+                    <path d="M82.4746094,82.4746094 C105.03035,82.4746094 123.299479,64.2054801 123.299479,41.6497396 C123.299479,19.093999 105.03035,0.824869792 82.4746094,0.824869792 C59.9188688,0.824869792 41.6497396,19.093999 41.6497396,41.6497396 C41.6497396,64.2054801 59.9188688,82.4746094 82.4746094,82.4746094 Z M82.4746094,102.887044 C55.2240088,102.887044 0.824869792,116.563376 0.824869792,143.711914 L0.824869792,164.124349 L164.124349,164.124349 L164.124349,143.711914 C164.124349,116.563376 109.72521,102.887044 82.4746094,102.887044 Z" id="Shape"></path>
+                </g>
+            </g>
+            <text id="Simple-Node-User-Ser" font-family="Lato-Bold, Lato" font-size="72" font-weight="bold" fill="#77D3EF">
+                <tspan x="157.694" y="571">Simple Node User Service</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
