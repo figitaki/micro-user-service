@@ -1,5 +1,5 @@
 {
-  "name": "simple-user-service",
+  "name": "micro-user-service",
   "version": "0.1.0",
   "description": "Extensible microservice for managing users",
   "main": "app.js",
