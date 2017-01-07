@@ -7,7 +7,7 @@
 
 > Extensible microservice for managing user accounts
 
-[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
+[![Build Status](https://travis-ci.org/figitaki/micro-user-service.svg?branch=master)](https://travis-ci.org/figitaki/micro-user-service)[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
 
 ## Highlights
 - Out of the box user microservice written in Node.js.
