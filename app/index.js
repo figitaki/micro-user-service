@@ -64,6 +64,11 @@ app.use(function (req, res, next) {
 	next()
 })
 
+// Hello, World route
+app.get('/', function (req, res) {
+	res.send('Hello, World')
+})
+
 // Actual query
 app.get('/users', function (req, res) {
 	var collection = db.collection('users')
